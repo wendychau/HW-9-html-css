@@ -100,3 +100,16 @@ a:hover {
         font-size: 12px;
       }
 }
+
+@media only screen and (min-width: 720px) {
+
+  
+  h4 {
+    margin-top: 5px;
+    font-size: 1.0vw;
+  } 
+
+  p {
+    margin-top: 2.5px;
+    font-size: 1.0vw;
+  } 
