@@ -21,12 +21,12 @@ h3 {
 
 h4 {
     margin-top: 5px;
-    font-size: 1.5vw;
+    font-size: 1.75vw;
   } 
 
 p {
     margin-top: 2.5px;
-    font-size: 1.25vw;
+    font-size: 1.75vw;
   }  
 
 #wrap {
@@ -101,9 +101,8 @@ a:hover {
       }
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (min-width: 840px) {
 
-  
   h4 {
     margin-top: 5px;
     font-size: 1.0vw;
